@@ -26,12 +26,3 @@ Imports:
     RcppArmadillo,
     inline
 License: GPL (>=2)
-Collate:
-    'fdr.r'
-    'plot.spt.r'
-    'test_statistics.r'
-    'spt.r'
-    'est_m0.r'
-    'cxxwrapper.r'
-    'read_code.r'
-    'rbunif.r'
